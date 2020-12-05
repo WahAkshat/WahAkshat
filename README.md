@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Music: ... <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
 
 
+
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshat-chatterjee-b8091519a/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ThisisAkshatC/)
+
+
 [![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=WahAkshat)](https://github.com/anuraghazra/github-readme-stats)
 
 
