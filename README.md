@@ -89,7 +89,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
  <h1 align = "center">StarGazers! </h1>
  <p align ="Center">
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+ <img src = 'https://github.com/WahAkshat/WahAkshat/programming.gif' alt = 'Programming gif' align='right'/>
  </br>
 <hr>
 
