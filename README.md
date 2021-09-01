@@ -16,6 +16,14 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 5) blockchain logo: - <img src="https://img.shields.io/badge/-blockchain solidity-ffd800?style=for-the-badge"> 
 
+6) Music: <h1 align = "center">⚡ Music: ...</h1>
+           <p align ="Center">
+            <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
+           </br>
+          <hr>
+
+
+
 -->
 
 <!--  #############START##################  -->  
@@ -56,15 +64,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  </br>
 <hr>
 
-
-
-<!--  ###################################  -->
-
-<h1 align = "center">⚡ Music: ...</h1>
- <p align ="Center">
-  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
- </br>
-<hr>
 
 <!--  ###################################  -->
 
