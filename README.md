@@ -21,14 +21,18 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
             <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
            </br>
           <hr>
-
+7) css logo: <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 -->
 
 <!--  #############START##################  -->  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77211&size=90&center=true&width=2150&height=150&lines=Hi+%F0%9F%91%8B%2C+this+is+Akshat+Chatterjee!;A+3rd+year+CSE+Undergrad%2C+from+VIT+Vellore.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77211&size=90&center=true&width=2150&height=150&lines=Hi+%F0%9F%91%8B%2C+this+is+Akshat+Chatterjee!;A+3rd+year+CSE+Undergrad%2C+from+VIT+Vellore.)](https://git.io/typing-svg) <br/>
+
+ <p align ="Center">
+ <img src = 'https://github.com/WahAkshat/WahAkshat/blob/main/programming.gif' alt = 'Programming gif' align='center' alt="side Image" width="auto" height="300"/>
+ </br>
 
 <hr>
 
@@ -48,7 +52,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;  
@@ -77,7 +80,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  
 <hr>
 
-
 <!--  ###################################  -->
 
  <h1 align = "center">📬 Connect with me!</h1>
@@ -87,15 +89,18 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 <hr>   
 
+
+<!--  ###################################  -->
+
  <h1 align = "center">StarGazers! </h1>
- <p align ="Center">
- <img src = 'https://github.com/WahAkshat/WahAkshat/programming.gif' alt = 'Programming gif' align='right'/>
+ <div align="center">
+  <img src="https://reporoster.com/stars/Btech-Projects/Intelligent-Railway-DBMS" align="center"/>
+</div>
  </br>
 <hr>
 
 
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/Btech-Projects/Intelligent-Railway-DBMS)](https://github.com/waylonwalker/waylonwalker/stargazers)
-
+<!--  ###################################  -->
 
 <h1 align="center"> 🔥 Contributions ...</h1>
 <p align="center">
@@ -109,5 +114,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
  </br>
 <hr>
+
+
+<!--  ###################################  -->
 
 <h2 align="center"> ⚡ Cheers!</h2>
