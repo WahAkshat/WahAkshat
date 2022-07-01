@@ -28,7 +28,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <!--  #############START##################  -->  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77211&size=90&center=true&width=2150&height=150&lines=Hi+%F0%9F%91%8B%2C+this+is+Akshat+Chatterjee!;A+3rd+year+CSE+Undergrad%2C+from+VIT+Vellore.)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77211&size=90&center=true&width=2150&height=150&lines=Hi+%F0%9F%91%8B%2C+this+is+Akshat+Chatterjee!;A+4th+year+CSE+Undergrad%2C+from+VIT+Vellore.)](https://git.io/typing-svg) <br/>
 
  <p align ="Center">
  <img src = 'https://github.com/WahAkshat/WahAkshat/blob/main/programming.gif' alt = 'Programming gif' align='center' alt="side Image" width="auto" height="300"/>
